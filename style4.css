@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(151, 199, 218);
+    text-align: center;
+  
+}
+h1{
+    color: rgba(16, 24, 145, 0.89);
+    font-weight: bolder;
+    font-size: xx-large;
+   
+}
+p{
+    color: green;
+    font-weight: bold;
+}
+h2{
+    color: red;
+}

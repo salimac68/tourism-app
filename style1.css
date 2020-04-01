@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-image: url(123.jpg);
+    background-size: cover;
+   
+}
+.box{
+    width:300px;
+    box-shadow: rgb(15, 15, 15);
+    background: rgb(119, 197, 202);
+    padding:2px;
+    margin: 8% auto 0;
+   box-sizing: border-box;
+   box-shadow: cyan;
+   border-radius: 10px;
+    text-align: center;
+}
